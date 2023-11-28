@@ -1,0 +1,35 @@
+.back {
+  display: flex;
+  background-color: #ffffff;
+  background-size: cover;
+}
+
+.bg {
+  background-color: #64748b;
+  min-height: 100vh;
+  min-width: 50vw;
+  background-size: cover;
+  padding-top: 5px;
+  padding-left: 10px;
+}
+
+.h1 {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 20px;
+  font-weight: 500;
+  margin-left: 50px;
+}
+
+.ul {
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin-top: 10px;
+}
+
+.back2 {
+  display: flex;
+  justify-content: center;
+  text-align: center;
+}
